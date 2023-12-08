@@ -1,0 +1,14 @@
+<resources>
+<string name="login">
+    Login
+</string>
+    <string name="new_here_re" />
+    <string name="password" />
+    <string name="email" />
+    <string name="forgot_pass" />
+    <style name="login">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">#FFECD0</item>
+    </style>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="new_here_re"></style>
+
+    <style name="forgot_pass"></style>
+
+    <style name="password"></style>
+
+    <style name="email"></style>
+</resources>
